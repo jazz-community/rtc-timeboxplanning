@@ -23,7 +23,7 @@ Since it is implemented generically it supports the brand new SAFe template as w
 Today we offer you a binary distribution, which can be downloaded from this project and installed on your system. For license information see [License](LICENSE.md#license)
 
 ## Releases
-Already buit versions of the RTC-Timeboxplanning can be found within the Releases section
+Already built versions of the RTC-Timeboxplanning can be found within the Releases section
 
 ## Support
 Questions and problems can be reported by creating issues within this project. 
