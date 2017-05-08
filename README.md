@@ -1,5 +1,7 @@
 # Timebox Planning Widget - a Rational Team Concert (RTC) extension for Timebox based Planning with SAFe support
 
+![Timebox V3 Animated Teaser](docs/images/timeboxv3_teaser.gif)
+
 ## Information and latest News
 - [Timebox Planning Blog](https://timeboxplanning.wordpress.com/)
 - [Timebox Planning YouTube Channel](https://www.youtube.com/channel/UCcvclkdfdmOS6AuR62bZ_PA)
