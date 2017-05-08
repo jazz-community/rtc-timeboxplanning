@@ -1,4 +1,4 @@
-## schneidg | Timebox
+## schneidg | Timeboxplanning
 
 # Timebox Planning Widget - a Rational Team Concert (RTC) extension for Timebox based Planning with SAFe support
 [Guido Schneider, Markus Giacomuzzi, April 12 2016]
