@@ -35,5 +35,5 @@ in addition your feedback in order to improve the Timebox Planning Widget is wel
 
 ## Licensing
 Copyright (c) Siemens AG. All rights reserved.<br>
-Licensed under the [MIT](https://github.com/jazz-community/rtc-timeboxplanning/blob/master/LICENSE) License.
+Licensed under the [MIT](https://github.com/jazz-community/rtc-timeboxplanning/blob/master/LICENSE.md) License.
 
