@@ -5,11 +5,11 @@
 
 
 ## all informations and latest news are available here
-https://timeboxplanning.wordpress.com/
+[Timebox Planning Blog](https://timeboxplanning.wordpress.com/)
 
-https://www.youtube.com/channel/UCcvclkdfdmOS6AuR62bZ_PA
+[Timebox Planning YouTube Channel](https://www.youtube.com/channel/UCcvclkdfdmOS6AuR62bZ_PA)
 
-https://www.slideshare.net/MarkusGiacomuzzi/timebox-planning-with-safe-support-presentedibms-interconnect-2016-las-vegas
+[Timebox Planning with SAFe Support - presented@IBM's InterConnect 2016 Las Vegas](https://www.slideshare.net/MarkusGiacomuzzi/timebox-planning-with-safe-support-presentedibms-interconnect-2016-las-vegas)
 
 ## Idea and goal
 This project delivers a new widget for RTC (Rational Team Concert) to allow iteration/sprint planning of work items in a "Tetris-Like" way. 
@@ -31,10 +31,10 @@ Please Join this project, to file work items or to participate in the developmen
 See also [Contributing](CONTRIBUTING.md#contributing)
 in addition your feedback in order to improve the Timebox Planning Widget is welcome
 
--> https://timeboxplanning.wordpress.com/
+[Timebox Planning Blog](https://timeboxplanning.wordpress.com/)
 
 
-###License
+### License
 Copyright (c) 2016, Guido Schneider/Markus Giacomuzzi All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
