@@ -4,7 +4,7 @@
 
 ## Information and latest News
 - [Timebox Planning Blog](https://timeboxplanning.wordpress.com/)
-- [Timebox Planning YouTube Channel](https://www.youtube.com/channel/UCcvclkdfdmOS6AuR62bZ_PA)
+- [Timebox Planning YouTube Channel](https://www.youtube.com/channel/UCcvclkdfdmOS6AuR62bZ_PA/playlists)
 - [Timebox Planning with SAFe Support - presented@IBM's InterConnect 2016 Las Vegas](https://www.slideshare.net/MarkusGiacomuzzi/timebox-planning-with-safe-support-presentedibms-interconnect-2016-las-vegas)
 
 ## Idea and goal
