@@ -17,7 +17,7 @@ The Widget works for CLM V.4.0.3 and later. Currently it is in successful operat
 Since it is implemented process independently it supports the brand new SAFe template as well as any others including your customizations
 
 ## Releases
-Today we offer you a binary distribution, which can be downloaded from this project and installed on your system. The current stable release can be downloaded directly from the [Releases](https://github.com/jazz-community/rtc-timeboxplanning/issues) page.
+Today we offer you a binary distribution, which can be downloaded from this project and installed on your system. The current stable release can be downloaded directly from the [Releases](https://github.com/jazz-community/rtc-timeboxplanning/releases) page.
 
 ## Contributing
 Please use the [Issue Tracker](https://github.com/jazz-community/rtc-timeboxplanning/issues) of this repository to report issues or suggest enhancements.
